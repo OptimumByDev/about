@@ -1,2 +1,2 @@
-# about
-Try to use github. 
+# About repo
+This repo is made only try to use github.
